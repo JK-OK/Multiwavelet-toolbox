@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kromka"
+  given-names: "Jozef"
+  orcid: "https://orcid.org/0000-0003-4499-4951"
+- family-names: "Kováč"
+  given-names: "Ondrej"
+  orcid: "https://orcid.org/0000-0001-7539-5607"
+title: "Multiwavelet toolbox"
+version: 1.0.0
+doi: 
+date-released: 2022-1-31
+url: "https://github.com/JK-OK/Multiwavelet-toolbox"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Kromka"
+    given-names: "Jozef"
+    orcid: "https://orcid.org/0000-0003-4499-4951"
+  - family-names: "Kováč"
+    given-names: "Ondrej"
+    orcid: "https://orcid.org/0000-0001-7539-5607"
+  - family-names: "Šaliga"
+    given-names: "Ján"
+    orcid: "https://orcid.org/0000-0003-3204-6946"
+  doi: "10.0000/00000"
+  journal: "RADIOELEKTRONIKA 2022"
+  month: 4
+  start: 1
+  end: 10
+  title: "Multiwavelet toolbox for MATLAB"
+  issue: 1
+  volume: 1
+  year: 2022
