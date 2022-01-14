@@ -9,7 +9,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-7539-5607"
 title: "Multiwavelet toolbox"
 version: 1.0.0
-doi: 
 date-released: 2022-1-31
 url: "https://github.com/JK-OK/Multiwavelet-toolbox"
 preferred-citation:
@@ -24,7 +23,7 @@ preferred-citation:
   - family-names: "Šaliga"
     given-names: "Ján"
     orcid: "https://orcid.org/0000-0003-3204-6946"
-  doi: "10.0000/00000"
+  doi: "will be updated"
   journal: "RADIOELEKTRONIKA 2022"
   month: 4
   start: 1
