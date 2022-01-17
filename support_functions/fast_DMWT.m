@@ -18,7 +18,7 @@
 % If you are using this toolbox in research, please consider citing our   %
 % conference paper, from which this toolbox originates. You can find the  %
 % citation at https://github.com/JK-OK/Multiwavelet-toolbox               %
-% You can find the contact information for authors there as well.         %
+% You can find there the contact information for authors as well.         %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [c11, c12, d11, d12] = fast_DMWT(in, multiwavelet, varargin)
