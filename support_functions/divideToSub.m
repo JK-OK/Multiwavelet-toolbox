@@ -16,7 +16,7 @@
 % along with this program.  If not, see <https://www.gnu.org/licenses/>.  %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % If this software is used to make a contribution to the findings         %
-% published in an article, then  please consider citing our conference    %
+% published in an article, then please consider citing our conference     %
 % paper, from which this toolbox originates. You can find the citation at %
 % https://github.com/JK-OK/Multiwavelet-toolbox                           %
 % You can find there the contact information for authors as well.         %
