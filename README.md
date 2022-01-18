@@ -14,7 +14,7 @@ The toolbox contains a script for generating custom Multiwavelets as well as the
 
 If this software is used to make a contribution to the findings
 published in an article, then please consider citing our conference
-paper. You can generate a citation in APA or BibliTEX format in the Github repository or you can use this citation.  
+paper. You can generate a citation in APA or BibTeX format in the Github repository or you can use this citation.  
 
 Kromka, J., Kováč, O., & Šaliga, J. (2022). Multiwavelet toolbox for MATLAB [Conference paper]. // Will be updated. 
 
