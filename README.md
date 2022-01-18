@@ -1,6 +1,6 @@
 # Multiwavelet toolbox for MATLAB
 
-This repository contains the Multiwavelet toolbox for MATLAB. Presented Multiwavelet toolbox was developed in MATLAB 2021b and consists of 13 main functions, 10 support functions, 2 scripts, and a data file. Currently the toolbox can implement Discrete Multiwavelet transform (DMWT), Multilevel DMWT, Symmetrical multilevel DMWT, 2D DMWT, 2D multilevel DMWT, and of course inverse transform, with the use of following Multiwavelets:
+This repository contains the Multiwavelet toolbox for MATLAB. Presented Multiwavelet toolbox was developed in MATLAB 2021b and consists of 13 main functions, 10 support functions, 2 scripts, and a data file. Currently, the toolbox can implement Discrete Multiwavelet transform (DMWT), Multilevel DMWT, Symmetrical multilevel DMWT, 2D DMWT, 2D multilevel DMWT, and of course inverse transform, with the use of the following Multiwavelets:
 - DB2-DB8
 - Haar
 - DGHM
@@ -14,7 +14,7 @@ The toolbox contains a script for generating custom Multiwavelets as well as the
 
 If this software is used to make a contribution to the findings
 published in an article, then please consider citing our conference
-paper. You can generate citation in APA or BibliTEX format in the Github repository or you can use this citation.  
+paper. You can generate a citation in APA or BibliTEX format in the Github repository or you can use this citation.  
 
 Kromka, J., Kováč, O., & Šaliga, J. (2022). Multiwavelet toolbox for MATLAB [Conference paper]. // Will be updated. 
 
@@ -28,7 +28,7 @@ You can contact authors by email:
 - jozef.kromka@tuke.sk  
 - ondrej.kovac@tuke.sk  
   
-We will be happy about any suggestions, ideas and contributions to improve this toolbox. It is also possible to add custom Multiwavelet as long you know matrix impulse responses of the Multiwavelet.
+We will be happy about any suggestions, ideas, and contributions to improve this toolbox. It is also possible to add custom Multiwavelet as long you know matrix impulse responses of the Multiwavelet.
 
 # License
-This toolbox is licensed under the GPLv3 for scientific and learning purposes in hope it will be usefull for anyone who wants to learn about Multiwavelets and Multiwavelet transform or to make research about them.  
+This toolbox is licensed under the GPLv3 for scientific and learning purposes in the hope it will be useful for anyone who wants to learn about Multiwavelets and Multiwavelet transform or to make research about them.  
