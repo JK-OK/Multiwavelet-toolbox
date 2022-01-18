@@ -18,7 +18,7 @@ paper. You can generate citation in APA or BibliTEX format in the Github reposit
 
 Kromka, J., Kováč, O., & Šaliga, J. (2022). Multiwavelet toolbox for MATLAB [Conference paper]. // Will be updated. 
 
-# Abstract
+# Abstract of the conference paper
 
 The Wavelet transform in the last decades gained a lot of popularity among researchers for its properties and abilities. The main subject of this article is the Multiwavelet transform, which derivates from the Wavelet transform and has the same properties and abilities while providing additional properties and abilities, which the Wavelet transform cannot achieve. There exists a lot of freely available and easy-to-use tools to implement Wavelet transform. This cannot be said about the Multiwavelet transform. Based on that fact, the Multiwavelet toolbox for Matlab is proposed in the article. The article consists of two main parts. The first one is focused on Multiwavelet transform description and particularly on its convolution implementation.  The second part describes the proposed toolbox and shows some examples of its uses. The proposed toolbox consists of more than 25 original functions and scripts, and it is offered as GPL licensed software for scientific and learning purposes.
 
