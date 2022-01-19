@@ -22,10 +22,6 @@
 % You can find there the contact information for authors as well.         %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-If this software is used to make a contribution to the findings published
-in an article, then the author(s) of that article are requested to
-include a citation using one of the references provided below.
-
 clear;
 clc;
 
@@ -41,7 +37,7 @@ in1D = normalize(kobe(1:2048)');
 load woman;
 in2D = im2double(uint8(X));
 clear kobe map X;
-% in2D = imread("image.png");
+% in2D = im2double(im2gray(imread("image.png")));
 
 %% DMWT and IDMWT Example
 
