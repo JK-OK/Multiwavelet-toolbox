@@ -20,7 +20,7 @@ Kromka, J., Kováč, O., & Šaliga, J. (2022). Multiwavelet toolbox for MATLAB [
 
 # Abstract of the conference paper
 
-The Wavelet transform in the last decades gained a lot of popularity among researchers for its properties and abilities. The main subject of this article is the Multiwavelet transform, which derivates from the Wavelet transform and has the same properties and abilities while providing additional properties and abilities, which the Wavelet transform cannot achieve. There exists a lot of freely available and easy-to-use tools to implement Wavelet transform. This cannot be said about the Multiwavelet transform. Based on that fact, the Multiwavelet toolbox for Matlab is proposed in the article. The article consists of two main parts. The first one is focused on Multiwavelet transform description and particularly on its convolution implementation.  The second part describes the proposed toolbox and shows some examples of its uses. The proposed toolbox consists of more than 25 original functions and scripts, and it is offered as GPL licensed software for scientific and learning purposes.
+The Wavelet transform in the last decades gained a lot of popularity among researchers for its properties and abilities. The main subject of this article is the Multiwavelet transform, which derivates from the Wavelet transform and has the same properties and abilities while providing additional properties and abilities, which the Wavelet transform cannot achieve. There exists a lot of freely available and easy-to-use tools to implement Wavelet transform. This cannot be said about the Multiwavelet transform. Based on that fact, the Multiwavelet toolbox for Matlab is proposed in the article. The article consists of two main parts. The first one is focused on Multiwavelet transform description and particularly on its convolution implementation.  The second part describes the proposed toolbox and shows some examples of its uses. The proposed toolbox consists of more than 25 original functions and scripts, and it is offered as GPL licensed software for scientific and educational purposes.
 
 # Contact
 
@@ -31,4 +31,4 @@ You can contact authors by email:
 We will be happy about any suggestions, ideas, and contributions to improve this toolbox. It is also possible to add custom Multiwavelet as long you know matrix impulse responses of the Multiwavelet.
 
 # License
-This toolbox is licensed under the GPLv3 for scientific and learning purposes in the hope it will be useful for anyone who wants to learn about Multiwavelets and Multiwavelet transform or to make research about them.  
+This toolbox is licensed under the GPLv3 for scientific and educational purposes in the hope it will be useful for anyone who wants to learn about Multiwavelets and Multiwavelet transform or to make research about them.  
