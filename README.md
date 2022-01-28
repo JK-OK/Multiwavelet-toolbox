@@ -10,7 +10,11 @@ This repository contains the Multiwavelet toolbox for MATLAB. Presented Multiwav
 
 The toolbox contains a script for generating custom Multiwavelets as well as the script with examples.  
 
----
+## Instalation
+
+To use this toolbox, you need to save it on your computer and then in MATLAB add the toolbox folder to the MATLAB path. Make sure the support_functions folder is in the path as well. Then you can use the toolbox by calling respective functions.
+
+## Note
 
 If this software is used to make a contribution to the findings
 published in an article, then please consider citing our conference
