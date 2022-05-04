@@ -22,7 +22,7 @@ If this software is used to make a contribution to the findings
 published in an article, then please consider citing our conference
 paper. You can generate a citation in APA or BibTeX format in the Github repository or you can use this citation.  
 
-Kromka, J., Kováč, O., & Šaliga, J. (2022). Multiwavelet toolbox for MATLAB [Conference paper]. // Will be updated. 
+Kromka, J., Kováč, O., & Šaliga, J. (2022). Multiwavelet toolbox for MATLAB [Conference paper]. https://doi.org/10.1109/RADIOELEKTRONIKA54537.2022.9764952
 
 # Abstract of the conference paper
 
