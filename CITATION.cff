@@ -23,12 +23,7 @@ preferred-citation:
   - family-names: "Šaliga"
     given-names: "Ján"
     orcid: "https://orcid.org/0000-0003-3204-6946"
-  doi: "will be updated"
-  journal: "RADIOELEKTRONIKA 2022"
-  month: 4
-  start: 1
-  end: 10
+  doi: "10.1109/RADIOELEKTRONIKA54537.2022.9764952"
   title: "Multiwavelet toolbox for MATLAB"
-  issue: 1
-  volume: 1
   year: 2022
+  
